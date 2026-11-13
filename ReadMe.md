@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI/ML projects and intelligent systems.<br><br>👯 I’m looking to collaborate on Machine Learning, Data Science, and Open-Source projects.<br><br>🤝 I’m looking for help with LLMs, RAG pipelines, MLOps, and advanced AI research.<br><br>🌱 I’m currently learning Deep Learning, Neural Networks, Agentic AI, and LLM Engineering.<br><br>💬 Ask me about Python, SQL, Machine Learning, Data Analytics, and AI-driven applications.<br><br>⚡ Fun fact: I'm an engineering student who enjoys exploring the intersection of technology, research, and motorsports!
+🔭 I’m currently working on AI/ML projects and intelligent systems.<br><br>👯 I’m looking to collaborate on Machine Learning, Data Science, and Open-Source projects.<br><br>🤝 I’m looking for help with LLMs, RAG pipelines, MLOps, and advanced AI research.<br><br>🌱 I’m currently learning Deep Learning, Neural Networks, Agentic AI, and LLM Engineering.<br><br>💬 Ask me about Python, SQL, Machine Learning, Data Analytics, and AI-driven applications.<br><br>⚡ Fun fact: I'm an engineering student who enjoys exploring the intersection of technology and research!
 
 
 ## 🌐 Socials:
